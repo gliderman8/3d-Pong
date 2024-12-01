@@ -1,0 +1,9 @@
+﻿  3d_Crazy_Pong.cpp
+C:\3d_Crazy_Pong\3d_Crazy_Pong\Ball.hpp(30,31): warning C4305: '*=': truncation from 'double' to 'float'
+  (compiling source file '3d_Crazy_Pong.cpp')
+  
+C:\3d_Crazy_Pong\3d_Crazy_Pong\3d_Crazy_Pong.cpp(13,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\3d_Crazy_Pong\3d_Crazy_Pong\3d_Crazy_Pong.cpp(13,85): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\3d_Crazy_Pong\3d_Crazy_Pong\3d_Crazy_Pong.cpp(14,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\3d_Crazy_Pong\3d_Crazy_Pong\3d_Crazy_Pong.cpp(14,85): warning C4305: 'argument': truncation from 'double' to 'float'
+  3d_Crazy_Pong.vcxproj -> C:\3d_Crazy_Pong\x64\Debug\3d_Crazy_Pong.exe
